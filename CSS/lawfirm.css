@@ -1,0 +1,70 @@
+.navbar{
+    background-color: #fffcfd;
+    font-size: large;
+    padding-top: 20px;
+    padding-bottom: 25px;
+
+}
+.navbar a{
+    color:black;
+    font-family: Franklin Gothic Medium;;
+}
+.navbar-brand{
+    margin-right: 200px;
+}
+.navbar-nav li{
+padding-left: 23px;
+}
+#class1{
+    border: 1px solid saddlebrown;
+    border-radius: 25px;
+    background-color: saddlebrown;
+    color:white;
+    font-family:  'Arial Narrow Bold';
+
+
+}
+#class2{
+    border: 1px solid saddlebrown;
+    border-radius: 25px;
+    background-color:blueviolet;
+    color:white;
+    font-family:  'Arial Narrow Bold';
+
+
+}
+#id1{
+    font-family:Franklin Gothic Medium;
+    font-size: 30px;
+
+}
+#id2{
+    color: chocolate;
+}
+body{
+    background-image: url('./Vakeelsab1.jpg');
+    background-size:cover;
+    background-position:top;
+    background-repeat:no-repeat;
+}
+.one{
+    text-align: center;
+    margin-top: 200px;
+}
+.two{
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+}
+.three{
+    color: rgb(221, 217, 217);
+    font-size: 15px;
+    margin-top:35px;
+    margin-bottom: 35px;
+    letter-spacing:5px ;
+    font-weight: bold;
+
+}
+#one{
+    color:chocolate
+}
